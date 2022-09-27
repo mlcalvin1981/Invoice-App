@@ -1,0 +1,12 @@
+
+th {
+    background-color: forestgreen;
+    color: white;
+    font-size:large;
+    font-style: oblique;
+  }
+
+tbody tr:nth-child(even){
+    background-color: lightgreen;
+    color: white;
+  }
